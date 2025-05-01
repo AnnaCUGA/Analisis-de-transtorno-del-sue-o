@@ -12,7 +12,7 @@ El análisis se realizó utilizando Python con las siguientes bibliotecas princi
 ## Análisis Exploratorio de Datos
 
 ### Distribución de Trastornos por Género
-![Distribución por género](https://github.com/tu_usuario/tu_repositorio/raw/main/images/gender_distribution.png)
+![Distribución por género](https://github.com/AnnaCUGA/Analisis-de-transtorno-del-sue-o/raw/main/images/gender_distribution.png)
 
 **Hallazgos:**
 - 185 mujeres y 189 hombres en el dataset
@@ -20,7 +20,7 @@ El análisis se realizó utilizando Python con las siguientes bibliotecas princi
 - 72.5% de hombres sin trastorno vs 44.3% en mujeres
 
 ### Distribución por Ocupación
-![Distribución por ocupación](https://github.com/tu_usuario/tu_repositorio/raw/main/images/occupation_distribution.png)
+![Distribución por ocupación](https://github.com/AnnaCUGA/Analisis-de-transtorno-del-sue-o/raw/main/images/occupation_distribution.png)
 
 **Hallazgos:**
 - Enfermeras/os: grupo más numeroso (73 casos)
@@ -28,7 +28,7 @@ El análisis se realizó utilizando Python con las siguientes bibliotecas princi
 - Profesores (40) y contadores (37) con patrones distintos
 
 ### Relación Edad-BMI
-![Relación Edad-BMI](https://github.com/tu_usuario/tu_repositorio/raw/main/images/age_bmi_relation.png)
+![Relación Edad-BMI](https://github.com/AnnaCUGA/Analisis-de-transtorno-del-sue-o/raw/main/images/age_bmi_relation.png)
 
 **Hallazgos:**
 - Obesidad (BMI ≥ 30) asociada con apnea del sueño
@@ -36,7 +36,7 @@ El análisis se realizó utilizando Python con las siguientes bibliotecas princi
 - Casos sin trastorno predominan en peso normal
 
 ### Pasos Diarios por Ocupación
-![Pasos diarios](https://github.com/tu_usuario/tu_repositorio/raw/main/images/steps_heatmap.png)
+![Pasos diarios](https://github.com/AnnaCUGA/Analisis-de-transtorno-del-sue-o/raw/main/images/steps_heatmap.png)
 
 **Hallazgos:**
 - Enfermeras con apnea: mayor promedio de pasos (8264)
