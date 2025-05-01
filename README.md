@@ -75,9 +75,9 @@ Variables categóricas:
 
 ## Cómo reproducir el análisis
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/AnnaCUGA/Analisis-de-transtorno-del-sue-o.git
 cd tu_repositorio
-jupyter notebook notebooks/Analisis_del_Trastorno_del_sueno.ipynb
+jupyter notebook notebooks/Analisis_del_Trastorno_del_sueño.ipynb
 ```
 
 ## Requisitos
