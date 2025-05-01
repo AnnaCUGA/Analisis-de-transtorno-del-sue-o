@@ -73,21 +73,6 @@ Variables categóricas:
 - Fomentar actividad física en trabajos sedentarios
 - Usar modelo como herramienta de screening inicial
 
-## Estructura del Repositorio
-```
-/project-root
-│── /data
-│   └── Sleep_health_and_lifestyle_dataset.csv
-│── /notebooks
-│   └── Analisis_del_Trastorno_del_sueno.ipynb
-│── /images
-│   ├── gender_distribution.png
-│   ├── occupation_distribution.png
-│   ├── age_bmi_relation.png
-│   └── steps_heatmap.png
-└── README.md
-```
-
 ## Cómo reproducir el análisis
 ```bash
 git clone https://github.com/tu_usuario/tu_repositorio.git
